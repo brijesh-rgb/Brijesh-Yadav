@@ -68,6 +68,4 @@ All personal details are marked with `EDIT:` comments in `index.html`. Search fo
 
 ## Contact
 
-- Email: brijeshyadavytl@gmail.com
-- LinkedIn: https://www.linkedin.com/in/brijeshyadav-aiml/
 - GitHub: https://github.com/brijesh-rgb
